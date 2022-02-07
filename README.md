@@ -23,7 +23,7 @@ Each section of practice exercises has a `Basic Requirements` portion. Some sect
 
 _For your ease of access – click the following links for each section's practice exercises._
 
-- Part I: [Variables](./3-variables)
+- Part I: [Variables](https://github.com/softwareEngineeringCurriculm/JavaScript-Part-IV/tree/main/Exercise)
 
 
 ## Thinking about JavaScript
